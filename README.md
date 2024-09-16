@@ -1,4 +1,10 @@
-# The Evolution and Future of Programming Languages
+# Week 3 Assignment
+Name: Sarah Yoon
+LLM Model: ChatGPT 4o mini
+Questions:
+What caused the creation of so many different programming languages? Will programming languages develop into an even higher level than current ones? Will less programmers end up using the common languages today like java, python, and c++?
+
+## The Evolution and Future of Programming Languages
 
 The diversity of programming languages and their evolution have been driven by a complex mix of technological, theoretical, and social factors over the course of computing history. As technology advances, so do the needs of programmers, software engineers, and organizations, leading to the creation of new languages optimized for specific tasks. This constant cycle of innovation and specialization raises questions about the future of programming languages, whether they will become more abstract, and how existing languages like Java, Python, and C++ will evolve or be displaced. To fully explore this, we need to consider both historical developments and future trends.
 
