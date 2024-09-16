@@ -1,7 +1,7 @@
 # Week 3 Assignment
-Name: Sarah Yoon
-LLM Model: ChatGPT 4o mini
-Questions:
+Name: Sarah Yoon <br/>
+LLM Model: ChatGPT 4o mini <br/>
+Questions: <br/>
 What caused the creation of so many different programming languages? Will programming languages develop into an even higher level than current ones? Will less programmers end up using the common languages today like java, python, and c++?
 
 ## The Evolution and Future of Programming Languages
